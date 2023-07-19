@@ -1,0 +1,13 @@
+imageio==2.31.1
+lazy_loader==0.3
+mouse==0.7.1
+networkx==3.1
+numpy==1.24.4
+opencv-python==4.8.0.74
+packaging==23.1
+Pillow==10.0.0
+PyWavelets==1.4.1
+pywin32==306
+scikit-image==0.21.0
+scipy==1.10.1
+tifffile==2023.7.10
